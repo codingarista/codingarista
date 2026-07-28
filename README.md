@@ -1,7 +1,8 @@
 # Hi, I'm Arista 👋
 
-I'm the developer behind CodingArista, focusing on Cloud Infrastructure,
-Python Automation and Data Engineering.
+I'm a Computer Science graduate with experience as a Test Engineer and the developer behind CodingArista.
+
+I focus on Python Development, Cloud Infrastructure, Automation, and Data Engineering.
 
 ## 🚀 Featured Projects
 
