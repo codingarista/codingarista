@@ -1,6 +1,6 @@
-# Hi, I'm CodingArista 👋
+# Hi, I'm Arista 👋
 
-Computer Science graduate interested in Cloud Infrastructure,
+I'm the developer behind CodingArista, focusing on Cloud Infrastructure,
 Python Automation and Data Engineering.
 
 ## 🚀 Featured Projects
