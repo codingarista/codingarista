@@ -5,6 +5,7 @@ I'm a Computer Science graduate with experience as a Test Engineer and the devel
 I enjoy building Python applications, developing automation scripts, exploring cloud infrastructure, and working on AI, data engineering, and data analysis projects.
 
 
+
 ##  Featured Projects
 
 ### Netflix Data Analysis
