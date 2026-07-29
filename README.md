@@ -2,7 +2,8 @@
 
 I'm a Computer Science graduate with experience as a Test Engineer and the developer behind CodingArista.
 
-I focus on Python Development, Cloud Infrastructure, Automation, and Data Engineering.
+My interests include Python development, automation scripting, cloud infrastructure, AI, and data engineering.
+
 
 ##  Featured Projects
 
