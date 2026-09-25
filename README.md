@@ -1,49 +1,39 @@
-# Hi, I'm Arista !
+# Arista Wu
 
-I'm a Computer Science graduate with experience as a Test Engineer and the developer behind CodingArista.
+嗨，我是 Arista 👋
 
-I enjoy building Python applications, developing automation scripts, exploring cloud infrastructure, and working on AI, data engineering, and data analysis projects.
+- 🎓 資工系畢業
+- 🔧 喜歡專案開發和測試，總在尋找任何自動化的可能，減少重複性工作、提升效率
+- 🌏 正在學日文（N2 → N1）和英文
+- 📫 聯絡方式：your@email.com
 
+## Featured Projects
 
-##  Featured Projects
+### [MIS 設備異常簽核系統](repo連結)（開發中）
+設備異常 / 維修簽核流程系統。
+`Java` `SQL` `HTML/CSS/JavaScript`
 
-### USB Device Validator
-- Python Automation
-- Hardware Validation
-- USB Device Detection
-- Test Automation
-- HTML Reporting
+### [USB Device Validator](repo連結)
+模組化的 USB 裝置自動化測試工具，自動偵測裝置、執行測試並產出 HTML 報告。
+`Python` `Test Automation` `Hardware Validation`
 
+### [Package Design Validator](repo連結)
+封裝設計參數驗證與自動報告工具，將人工檢查流程自動化。
+`Python` `Automation` `Reporting`
 
-### Netflix Data Analysis
-
-- Python Data Analytics
-- Pandas
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-
-  
+### [Netflix Data Analysis](repo連結)
+以 Netflix 資料集進行資料清理、feature engineering 與探索式分析。
+`Python` `Pandas` `EDA`
 
 ## Skills
 
-### Programming
-- Python
+- **Languages:** Python, Java, SQL
+- **Testing:** Test Automation, Hardware Validation, SoC Functional / Stability Testing
+- **Data:** Pandas, Data Cleaning, Feature Engineering, EDA
+- **Tools:** Linux, Git, GitHub
 
-### Automation & Testing
-- Test Automation
-- Python Automation
-- Hardware Validation
-- Scripting
+## Languages
 
-### Data
-- Data Analysis
-- Pandas
-- Data Cleaning
-- Feature Engineering
-
-### System & Tools
-- Linux
-- Git
-- GitHub
-
+- 中文（母語）
+- 日本語（JLPT N2）
+- English
