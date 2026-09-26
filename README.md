@@ -20,7 +20,7 @@
 
 ### [Netflix Data Analysis](https://github.com/codingarista/netflix-data-analysis)
 以 Netflix 資料集進行資料清理、feature engineering 與探索式分析。
-`Python` `Pandas` `EDA`
+`Python` `Pandas` `EDA（Exploratory Data Analysis）`
 
 ## Skills
 
