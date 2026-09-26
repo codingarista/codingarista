@@ -7,8 +7,8 @@
 ## Featured Projects
 
 ### [MIS 設備維修申請系統](https://github.com/codingarista/mis-equipment-approval)
-設備異常回報與維修申請、簽核流程的管理系統。
-`Java` `SQL` `HTML/CSS/JavaScript`
+設備異常回報與維修申請、簽核流程的管理系統。 
+`Java` `Spring Boot` `MySQL` `Vue3` `HTML/CSS/JavaScript`
 
 ### [USB Device Validator](https://github.com/codingarista/usb-device-validator)
 模組化的 USB 裝置自動化測試工具，自動偵測裝置、執行測試並產出 HTML 報告。
