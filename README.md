@@ -8,40 +8,32 @@
 ## Featured Projects
 
 ### [Equipment Maintenance Request System](https://github.com/codingarista/mis-equipment-approval)
-**設備維修申請系統**
+**設備維修申請系統** `Java` `SQL` `HTML/CSS/JavaScript`
 
 A system for reporting equipment issues and managing maintenance requests and approvals.
 
 提供設備異常回報、維修申請與簽核流程的線上管理。
 
-`Java` `SQL` `HTML/CSS/JavaScript`
-
 ### [USB Device Validator](https://github.com/codingarista/usb-device-validator)
-**USB 裝置偵測與驗證工具**
+**USB 裝置偵測與驗證工具** `Python` `Test Automation` `Hardware Validation`
 
 A modular test automation tool that detects USB devices, runs tests, and generates HTML reports.
 
 以模組化設計自動偵測 USB 裝置、執行測試，並產出 HTML 報告。
 
-`Python` `Test Automation` `Hardware Validation`
-
 ### [Package Design Validator](https://github.com/codingarista/package-design-validator)
-**封裝設計參數驗證工具**
+**封裝設計參數驗證工具** `Python` `Automation` `Reporting`
 
 A tool that validates package design parameters and automatically generates reports, replacing manual checks.
 
 自動驗證封裝設計參數並產出報告，取代人工檢查流程。
 
-`Python` `Automation` `Reporting`
-
 ### [Netflix Data Analysis](https://github.com/codingarista/netflix-data-analysis)
-**Netflix 影視作品與觀眾反應分析**
+**Netflix 影視作品與觀眾反應分析** `Python` `Pandas` `EDA`
 
 Data cleaning, feature engineering, and exploratory analysis of Netflix titles and audience response, with insights for improving recommendation strategies.
 
 分析影視作品資料與觀眾反應的關聯，提出推薦策略的改善方向。
-
-`Python` `Pandas` `EDA`
 
 ## Skills
 
