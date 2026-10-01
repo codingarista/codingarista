@@ -21,13 +21,6 @@ A modular test automation tool that detects USB devices, runs tests, and generat
 
 以模組化設計自動偵測 USB 裝置、執行測試，並產出 HTML 報告。
 
-### [Package Design Validator](https://github.com/codingarista/package-design-validator)
-**封裝設計參數驗證工具** `Python` `Automation` `Reporting`
-
-A tool that validates package design parameters and automatically generates reports, replacing manual checks.
-
-自動驗證封裝設計參數並產出報告，取代人工檢查流程。
-
 ### [Netflix Data Analysis](https://github.com/codingarista/netflix-data-analysis)
 **Netflix 影視作品與觀眾反應分析** `Python` `Pandas` `EDA`
 
