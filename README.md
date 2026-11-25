@@ -38,7 +38,6 @@ Data cleaning, feature engineering, and exploratory analysis of Netflix titles a
 ## Skills
 
 - **Languages:** Python, SQL
-- **Testing & Validation:** Test Automation, Hardware Validation, SoC Functional / Stability Testing, Troubleshooting, Log Analysis
 - **Tools:** Linux, Git, GitHub, pytest
 
 ## Languages
