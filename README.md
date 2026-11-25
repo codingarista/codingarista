@@ -41,7 +41,7 @@ Data cleaning, feature engineering, and exploratory analysis of Netflix titles a
 - **Testing & Validation:** Test Automation, Hardware Validation, SoC Functional / Stability Testing, Troubleshooting, Log Analysis
 - **Tools:** Linux, Git, GitHub, pytest
 
-## Spoken Languages
+## Languages
 
 - Chinese (Native)
 - Japanese (JLPT N2)
