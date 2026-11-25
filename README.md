@@ -7,6 +7,13 @@
 
 ## Featured Projects
 
+### [Test Log Analyzer](https://github.com/codingarista/test-log-analyzer)
+**測試 log 異常分析工具** `Python` `pytest` `Log Analysis`
+
+Parses display stress-test logs, detects anomalies with rule-based checks, matches them against a known-issue database, and generates reports with line-number evidence.
+
+自動解析顯示器壓力測試 log，偵測異常、比對已知問題，並產生附證據行號的報告。
+
 ### [Equipment Maintenance Request System](https://github.com/codingarista/mis-equipment-approval)
 **設備維修申請系統** `Java` `SQL` `HTML/CSS/JavaScript`
 
@@ -30,9 +37,9 @@ Data cleaning, feature engineering, and exploratory analysis of Netflix titles a
 
 ## Skills
 
-- **Languages:** Python, Java, SQL
-- **Testing & Validation:** Test Automation, Hardware Validation, SoC Functional / Stability Testing, Troubleshooting
-- **Tools:** Linux, Git, GitHub
+- **Languages:** Python, SQL
+- **Testing & Validation:** Test Automation, Hardware Validation, SoC Functional / Stability Testing, Troubleshooting, Log Analysis
+- **Tools:** Linux, Git, GitHub, pytest
 
 ## Spoken Languages
 
