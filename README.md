@@ -46,7 +46,7 @@ Data cleaning, feature engineering, and exploratory analysis of Netflix titles a
 - Chinese (Native)
 - Japanese (JLPT N2)
 
-## 日本語での紹介
+## プロフィール
 
 理学部情報科学科卒業。ソフトウェアの開発・テスト、繰り返し作業の自動化、技術的な問題の切り分けに取り組んでいます。
 
